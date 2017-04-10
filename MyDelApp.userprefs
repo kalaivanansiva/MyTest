@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{58AD024B-1866-4896-A7E5-5F1F276949B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="MyDelApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="MyDelApp/Default.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyDelApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyDelApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F7E25BD-F809-43F7-B457-450DD78869E7" />
+</Properties>
