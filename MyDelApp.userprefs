@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{58AD024B-1866-4896-A7E5-5F1F276949B2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+﻿<Properties StartupConfiguration="{2A5D9EC2-0F24-464B-9F4D-772C8BE714C7}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
       <File FileName="iOS/Main.cs" Line="1" Column="1" />
